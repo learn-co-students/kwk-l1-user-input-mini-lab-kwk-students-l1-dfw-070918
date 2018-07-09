@@ -14,7 +14,7 @@ eat=gets.chomp
 
 puts "How many nights do you want to stay?"
 
-nights=gets.chomp.
+nights=gets.chomp
 
 
 # Lastly, puts it all back by interpolating these values in a string.
